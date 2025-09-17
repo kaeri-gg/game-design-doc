@@ -62,10 +62,22 @@
           <mxGeometry x="100" y="270" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wJ4ixOV1RO786vI5CnMP-18" value="-- core loop --" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=DynaPuff;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DDynaPuff%3Awght%40400..700%26family%3DOi%26display%3Dswap%22%20rel%3D%22stylesheet;labelBorderColor=none;fontColor=light-dark(#000000,#66FFFF);fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="347.5" y="120" width="145" height="30" as="geometry" />
+          <mxGeometry x="337.5" y="140" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wJ4ixOV1RO786vI5CnMP-19" value="&lt;span style=&quot;color: rgb(255, 102, 179); font-size: 30px; font-weight: 400;&quot;&gt;&amp;nbsp; &amp;nbsp;It Takes Two&lt;/span&gt;" style="rounded=0;fillColor=none;strokeColor=light-dark(#2D7600,#CCCCFF);fontColor=#ffffff;comic=1;enumerate=0;treeMoving=0;treeFolding=0;strokeWidth=3;glass=0;shadow=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=DynaPuff;fontStyle=1;labelBackgroundColor=none;textShadow=0;labelBorderColor=none;whiteSpace=wrap;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DDynaPuff%3Awght%40400..700%26family%3DOi%26display%3Dswap%22%20rel%3D%22stylesheet;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="280" y="50" width="280" height="60" as="geometry" />
+          <mxGeometry x="270" y="70" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wJ4ixOV1RO786vI5CnMP-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.4_point_star_2;dx=0.8;rotation=-30;strokeColor=light-dark(#000000,#000000);strokeWidth=2;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#FFFFFF,#FFFF33);" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="38.17" height="43.17" as="geometry" />
+        </mxCell>
+        <mxCell id="wJ4ixOV1RO786vI5CnMP-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;rotation=15;fillColor=light-dark(#FFFFFF,#FFFF33);strokeColor=light-dark(#000000,#000000);strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="725" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wJ4ixOV1RO786vI5CnMP-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.heart;rotation=15;strokeColor=light-dark(#000000,#000000);strokeWidth=2;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#FFFFFF,#FFFF33);" vertex="1" parent="1">
+          <mxGeometry x="500" y="165" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="wJ4ixOV1RO786vI5CnMP-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;rotation=-30;strokeColor=light-dark(#000000,#000000);strokeWidth=2;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#FFFFFF,#FFFF33);" vertex="1" parent="1">
+          <mxGeometry x="370" y="270" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
